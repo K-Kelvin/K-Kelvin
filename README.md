@@ -19,6 +19,5 @@ Delighted to have you check out my profile🙂
 - 💬 Ask me anything about python
 - 🌟 I'm currently learning web development in Flask 
 - ⚡ Fun fact: I like reading articles about programming and best practices<br>
-
-
+- 📫 How to reach me: [twitter](https://twitter.com/k_kijanda)
 
