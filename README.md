@@ -3,21 +3,19 @@
 <!--
 **K-Kelvin/K-Kelvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 Delighted to have you check out my profile🙂
-
+---
 - 💬 Ask me anything about programming in python
 - 🌟 I'm currently learning everything 🙃
+- 🔭 I’m currently working on a Django web application
 - ⚡ Fun fact: I like reading articles about programming and best practices<br>
-- 📫 How to reach me: [twitter](https://twitter.com/k_kijanda)
-
+---
+Feel free to contribute to any of my repositories 😊
+---
+Reach out!<br>
+[<img src="https://img.icons8.com/color/48/000000/twitter-squared.png"/>](https://www.twitter.com/k_kijanda/)
+[<img src="https://img.icons8.com/fluent/48/000000/github.png"/>](https://www.github.com/K-Kelvin)
