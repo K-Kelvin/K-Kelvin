@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/K-Kelvin/K-Kelvin/master/extras/wave.gif" width="30px" height="25px">
 <!--
 **K-Kelvin/K-Kelvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -7,7 +7,6 @@
 - 🤔 I’m looking for help with ...
 -->
 **Delighted to have you check out my profile**🙂
-
 ---
 - 💬 Ask me anything about programming in python
 - 🌟 I'm currently learning everything 🙃
