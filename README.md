@@ -9,7 +9,7 @@
 
 ---
 ![My github stats](https://github-readme-stats.vercel.app/api?username=K-Kelvin&show_icons=true&hide=contribs,issues&custom_title=My%20Github%20Stats&theme=highcontrast&count_private=true) 
-![most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=K-Kelvin&count_private=true&theme=tokyonight&langs_count=6)
+![most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=K-Kelvin&count_private=true&theme=tokyonight&langs_count=3)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=K-Kelvin&repo=Jet_Game&show_owner=true&theme=yeblu)](https://www.github.com/K-Kelvin/Jet_Game)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=K-Kelvin&repo=Sudoku-GUI&show_owner=true&theme=vision-friendly-dark)](https://www.github.com/K-Kelvin/Sudoku-GUI)
 
